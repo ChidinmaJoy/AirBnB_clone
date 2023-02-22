@@ -1,3 +1,3 @@
 # Web Statics
 
-This project define HTML5 and CSS3
+This project is all about HTML and CSS
